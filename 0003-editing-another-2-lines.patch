@@ -1,0 +1,31 @@
+From 7b21a8c6ea6fd86ae057512d389d6a5b4259ce2e Mon Sep 17 00:00:00 2001
+From: Alena Zharykava <Alena_Zharykava1@epam.com>
+Date: Thu, 4 Feb 2021 17:39:58 +0300
+Subject: [PATCH 3/3] editing another 2 lines
+
+# Conflicts:
+#	1.txt
+---
+ 1.txt | 8 +++++---
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+
+diff --git a/1.txt b/1.txt
+index 6a7cf8f..a609e3e 100644
+--- a/1.txt
++++ b/1.txt
+@@ -5,6 +5,8 @@ If thou sorrow, he will weep;
+ If thou wake, he cannot sleep:
+ Thus of every grief in heart
+ He with thee doth bear a part.
+-These are certain signs to know
+-Faithful friend from flattering foe.”
+-― William Shakespeare, The Passionate Pilgrim
+\ No newline at end of file
++
++These certain signs to know
++Faithful flattering foe.”
++― Shakespeare, Passionate 
++
+-- 
+2.30.0.windows.2
+
